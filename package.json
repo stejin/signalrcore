@@ -1,6 +1,6 @@
 {
     "urls": [
-        ["test.py", "github:stejin/signalrcore/tests.py"]
+        ["tests.py", "github:stejin/signalrcore/tests.py"]
     ],
     "deps": [
 

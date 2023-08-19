@@ -1,6 +1,6 @@
 {
     "urls": [
-        ["tests.py", "github:stejin/signalrcore/tests.py"]
+        ["hub_connection_builder.py", "github:stejin/signalrcore/signalrcore/hub_connection_builder.py"]
     ],
     "deps": [
 

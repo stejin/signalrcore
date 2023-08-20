@@ -1,4 +1,4 @@
-import uuid
+#import uuid
 from .hub.base_hub_connection import BaseHubConnection
 from .hub.auth_hub_connection import AuthHubConnection
 from .transport.websockets.reconnection import \

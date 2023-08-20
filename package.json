@@ -1,6 +1,8 @@
 {
     "urls": [
-        ["hub_connection_builder.py", "github:stejin/signalrcore/signalrcore/hub_connection_builder.py"]
+        ["hub_connection_builder.py", "github:stejin/signalrcore/signalrcore/hub_connection_builder.py"],
+        ["base_hub_connection.py", "github:stejin/signalrcore/signalrcore/hub/base_hub_connection.py"],
+        ["auth_hub_connection.py", "github:stejin/signalrcore/signalrcore/hub/auth_hub_connection.py"]
     ],
     "deps": [
 

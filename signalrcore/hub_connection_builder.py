@@ -1,13 +1,13 @@
 #import uuid
 from base_hub_connection import BaseHubConnection
 from auth_hub_connection import AuthHubConnection
-from .transport.websockets.reconnection import \
+""" from .transport.websockets.reconnection import \
     IntervalReconnectionHandler, RawReconnectionHandler, ReconnectionType
 from .helpers import Helpers
 from .messages.invocation_message import InvocationMessage
 from .protocol.json_hub_protocol import JsonHubProtocol
 from .subject import Subject
-
+ """
 
 class HubConnectionBuilder(object):
     """
